@@ -29,6 +29,7 @@ public class conditionalsAndLoops {
             System.out.println(i);
         }
 
+        
         //while loops
         int num=1;
 
@@ -39,7 +40,7 @@ public class conditionalsAndLoops {
 
         // do while loops
         /*
-        
+
         do{
 
         }while(condition);

@@ -14,3 +14,4 @@ int d=a+b+c;
 System.out.println("Total= " +d);  
 }  
 }  
+
